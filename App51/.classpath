@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="lib" path="D:/android10/App51/libs/android-support-v4.jar"/>
+	<classpathentry kind="lib" path="D:/android10/App51/libs/AppOffer_2.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/android10/App51/libs/clentapi.jar"/>
+	<classpathentry kind="lib" path="D:/android10/App51/libs/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/android10/App51/libs/fastjson-1.1.26.jar"/>
+	<classpathentry kind="lib" path="D:/android10/App51/libs/mframework.jar"/>
+	<classpathentry kind="lib" path="D:/android10/App51/libs/SDK.jar"/>
+	<classpathentry kind="lib" path="D:/android10/App51/libs/ShareSDK-Core-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/android10/App51/libs/ShareSDK-QQ-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/android10/App51/libs/ShareSDK-QZone-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/android10/App51/libs/ShareSDK-SinaWeibo-2.5.6.jar"/>
+	<classpathentry kind="lib" path="D:/android10/App51/libs/universal-image-loader-1.9.3.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>

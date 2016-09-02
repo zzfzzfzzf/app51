@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="lucensy">#00000001</color>
+    <color name="translucency">#e0000000</color>
+    <color name="orange">#ffa500</color>
+    <color name="blue">#836FFF</color>
+    <color name="black">#000000</color>
+    <!-- <color name="red">#bf242a</color> -->
+    <color name="transparent">#00000000</color>
+    <color name="light_orange">#fcb75c</color>
+    <color name="alpha_00">#00000000</color>
+    <color name="gray">#DBDBDB</color>
+    <color name="trans">#50000000</color>
+    <color name="red">#fe0202</color>
+    <color name="background">#e5e5e5</color>
+    <color name="transparent_background">#50000000</color>
+    <color name="text_gray">#4F4F4F</color>
+    <color name="green">#00FF00</color>
+    <color name="grey">#363636</color>
+    <color name="gold">#b89766</color>
+    
+     <!-- 全局标题颜色 -->
+    <color name="globle_content_color">#6E8291</color>
+     <!-- 全局显示文字颜色 -->
+    <color name="globle_text_color">#858585</color>
+    <!-- 全局默认提示文本颜色值 -->
+    <color name="gold_hint_color">#858585</color>
+    <!-- 全局背景 -->
+    <color name="globle_color">#FFFFFF</color>
+    <!-- 全局内容背景间隔条 -->
+    <color name="content_color">#EFEFEF</color>
+    <!-- 全局顶部颜色 -->
+    <color name="base_top_bgcolor">#4FBE71</color>
+   
+    <!-- 黑色文字-->
+    <color name="text_black_color">#ff000000</color>
+    <!-- <color name="globle_text_color">#ff000000</color> -->
+    <!-- 我的饮食页面、导航——菜单文字颜色  82858b -->
+    <color name="globle_menu_text_color">#858585</color>
+    <!-- 全局遮挡 （首页） -->
+    <color name="index_laybg_color">#88323232</color>
+    <!-- 导航菜单选中状态背景颜色 -->
+    <color name="menu_selected_bgcolor">#4FBE71</color>
+    <!-- 食材库菜单未选中文字颜色 -->
+    <color name="shicai_menu_selected_text_color">#97C023</color>
+    
+    <!-- 土黄色按钮颜色 -->
+    <color name="logOut_bgcolor">#F5ad49</color>
+    <!-- 土黄色文字颜色 -->
+    <color name="text_bgcolor">#F5ad49</color>
+    <!-- 开关 on -->
+    <color name="toggle_on_color">#FFFFFF</color>
+    <!-- 开关 off -->
+    <color name="toggle_off_color">#E2E2E2</color>
+    
+    <color name="globle_menu_bgcolor">#4FBE71</color>
+    <!-- 淡黄色 -->
+    <color name="light_yellow">#FFCC99</color>
+    <color name="user_reply_color">#FF9900</color>
+
+</resources>

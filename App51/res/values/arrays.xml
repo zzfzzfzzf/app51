@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="planets_array">
+        <item>气质</item>
+        <item>校花</item>
+        <item>时尚</item>
+         <item>素颜 </item>
+        <item>唯美</item>
+        <item>清纯</item>
+        <item>可爱</item>
+        <item>长发</item>
+        <item>小清新</item>
+        <item>嫩萝莉</item>
+        <item>网络美女</item>
+        <item>设置</item>
+    </string-array>
+    <string-array name="planets_array2">
+       
+        <item>风景</item>
+        <item>创意</item>
+        <item>名车</item>
+        <item>影视 </item>
+        <item>游戏</item>
+        <item>动漫</item>
+        <item>气质</item>
+        <item>可爱</item>
+        <item>素颜</item>
+        <item>明星</item>
+        <item>设置</item>
+    </string-array>
+    <string-array name="hights">
+        <item>240</item>
+        <item>600</item>
+        <item>768</item>
+     </string-array>
+</resources>
